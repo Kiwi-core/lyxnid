@@ -1,0 +1,2 @@
+# lyxnid
+Bot discord
